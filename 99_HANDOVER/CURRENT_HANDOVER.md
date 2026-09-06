@@ -1,35 +1,24 @@
 # Current Handover
 
 Status: [CONFIRMED]
-Last Updated: 2026-08-22
+Last Updated: 2026-09-06
 
-## 현재 프로젝트 단계
-기획 기반 구축
+## 현재 단계
+AI 프로젝트 관리 체계 재구성
 
 ## 현재 작업
-GitHub 문서 체계 및 역할 세션 구조 구축
+기존 저장소를 기반으로 AI 관리 규칙과 Source of Truth 구조를 재설계함.
 
-## 최근 확정사항
-- GitHub `a200808/Project-Yuldo`를 공식 문서 저장소로 사용
-- 개발보다 기획을 우선
-- 00~09 및 99 역할 세션으로 분업
-- 세션 시작용 부트스트랩 문서를 별도로 관리
-- 캐논 상태를 `[CONFIRMED] / [PROPOSED] / [REVIEW]`로 구분
-- 기존 종합 기획서는 자동 캐논이 아니며 검수 후 이관
-
-## 검토 필요
-기존 종합 기획서의 세계관, 역사성, 스토리 개연성, 시스템 설정 전체.
+## 최근 변경
+- AI 관리 규칙을 별도 최상위 영역으로 분리
+- 프로젝트/캐논/각 담당 영역의 소유권을 분리
+- 기존 자료를 Git 이력에 보존하는 원칙 수립
+- 기존 구조의 중복 영역을 새 구조에서 통합
 
 ## 다음 작업
-1. 역할별 세부 문서 종류 확정
-2. 기존 종합 기획 자료를 검수 대상으로 정리
-3. 세계관 핵심 설정부터 본격 기획
-4. 이후 스토리 전체 구조 확정
+1. AI Governance 규칙 검토 및 확정
+2. 기존 자료의 검수/이관 기준 확정
+3. 활성 문서 작성 재개
 
-## 관련 문서
-- `00_PROJECT/PROJECT_STATUS.md`
-- `00_PROJECT/CORE_CANON.md`
-- `00_PROJECT/DECISIONS.md`
-- `00_PROJECT/OPEN_ISSUES.md`
-- `00_PROJECT/DOCUMENT_RULES.md`
-- `00_SESSION_GUIDES/SESSION_COMMON.md`
+## 주의
+이전 구조의 자료는 참고자료이며 자동 캐논이 아니다.
