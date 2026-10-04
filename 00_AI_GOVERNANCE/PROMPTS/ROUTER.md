@@ -1,6 +1,6 @@
 # YULDO-AI-ROUTER
 
-Status: [PROPOSED]
+Status: [CONFIRMED]
 
 ## 1. 역할
 
