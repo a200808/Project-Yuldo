@@ -13,7 +13,7 @@ Canon Notice: This document defines the approved common-planning questionnaire f
 - 역사적 사실, Confirmed Canon, Proposed, 추론·가설을 섞지 않는다.
 
 ## A. 공통 용어와 명명 규칙
-- [OPEN] 프로젝트 핵심 용어의 공식 목록은 어디에 유지할 것인가?
+- [CONFIRMED] 프로젝트 핵심 용어의 공식 목록은 별도 `02_CANON/GLOSSARY.md`에서 관리한다. GLOSSARY는 모든 AI와 담당 영역이 공통으로 참조하는 기준점이며, 전문적인 세부 정의와 사용 규칙은 해당 영역 문서가 소유한다. GLOSSARY는 공식 용어와 공통 정의 및 상세 정의의 위치를 연결하고 중복 정의를 줄이는 역할을 한다.
 - [OPEN] 각 용어에 공식 명칭, 정의, 포함 범위, 제외 범위, 별칭, 플레이어 표시명, NPC 표현, 내부 개발명을 각각 기록해야 하는가?
 - [OPEN] 한글 표기·한자 표기·로마자 표기·번역명이 다를 때 기준 표기는 무엇인가?
 - [OPEN] 같은 단어가 세계관 용어와 시스템 용어로 다르게 쓰이는 경우 어떻게 구분할 것인가?
